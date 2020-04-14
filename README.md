@@ -10,7 +10,7 @@ Releases are found here => https://github.com/dreamscale-io/torchie-release/rele
 
 Grab the latest dmg and download to install. Email accounts@dreamscale.io for an account access token and include some information about the organization you would like to sign up.. We currently need some help in this area, You are invited to help us.. Contact Help@dreamscale.io
 
-This hyperspace terminal is design to allow users to create and publish messages into other universes through quantum entanglement. The terminal also allows  you  to subscribe to messages from  the other universes connected to this hyperspace, again using quantum entanglement. Thie terminal is also capable of working offline  to the StarTalk network. Which will be able to use the same great  features   but only locally.
+This hyperspace terminal is design to allow users to create and publish messages into other universes through quantum entanglement. The terminal also allows  you  to subscribe to messages from  the other universes connected to this hyperspace, again using quantum entanglement. This terminal is also capable of working offline  to the StarTalk network. Which will be able to use the same great  features,   but only locally.
 
 Once running on your machine, access the shell by pressing meta key (or control) + ~ (tilda) key. This can be changed by editing the settings.json file within  your ~/.flow directory.
 
