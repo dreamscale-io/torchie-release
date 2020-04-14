@@ -14,9 +14,9 @@ This hyperspace terminal is design to allow users to create and publish messages
 
 Once running on your machine, access the shell by pressing meta key (or control) + ~ (tilda) key. This can be changed by editing the settings.json file within  your ~/.flow directory.
 
-the shell will  slide   down from the top of your screen, and a left sidepanel is used for navigation within the network. clicking on a team member will display  their hyperspace journal for all universes to see. If at anytime you encounter a  problem or have no  clue what     the fuck is actually going on here;  plkease click the lightening bolt  on the bottom left part of the console.. 
+the shell will  slide   down from the top of your screen, and a left sidepanel is used for navigation within the network. clicking on a team member will display  their hyperspace journal for all universes to see. If at anytime you encounter a  problem or have no  clue what     the fuck is actually going on here;  please click the lightening bolt  on the bottom left part of the console shell... This will   begin a new troubleshooting session and help you debug  your AI's nueral net.. sounds fun but its not.
 
-the main part of the  shell contains the terminal browser content.. All content, circuits, terminals, chat rooms, games, apps, or any multi-media content  or stream is resprented by a unique number and   URI path such as /terminal or just typing terminal. Not unlike a typical hyperweb browser.
+the main part of the  shell contains the terminal browser content.. All content, circuits, terminals, chat rooms, games, apps, or any multi-media content  or stream is represented by a unique number and   URI path such as /terminal or just typing terminal. Not unlike a typical hyperweb browser, you have the same safety blanket  of chome dev tools w/ realtime compiling.. O yes o yes, a compiler compiled inside a compiler, realtime.
 
 thank you. and  enjoy.
 
