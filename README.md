@@ -24,3 +24,7 @@ good luck,
 have fun~!
 
 ** please  contact zoe@dreamscale.io for   the symbol map, and or source code access. Open to all that are open minded.
+
+This is  an  Open Sourrce Project, funded entirely by @arty_starr and @kara_marie in part by DreamScale.io of which is not for profit corporation. We are  graciously taking donations. All proceeds go directly to researching, developing,  managing, and building Earth's Hyperspace Transport Network Hub to allow for quantum teleportation. Thank you<3 donations@dreamscale.io or volunteer@dreamscale.io
+
+
