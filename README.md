@@ -23,4 +23,4 @@ thank you. and  enjoy.
 good luck,
 have fun~!
 
-**please  contact zoe@dreamscale.io for   the symbol map, and or source code access. Open to all that are open to this.
+** please  contact zoe@dreamscale.io for   the symbol map, and or source code access. Open to all that are open minded.
