@@ -1,4 +1,4 @@
-### An Open Hyperspace Terminal
+### Universal Hyperspace Terminal
 
 **By: Dreamscale Cui Et Al**
 
