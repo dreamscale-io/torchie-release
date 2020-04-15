@@ -8,6 +8,8 @@ Welcome! First we have congratulations in order.. Why you ask, for discovering a
 
 Releases are found here => https://github.com/dreamscale-io/torchie-release/releases
 
+LATEST => https://github.com/dreamscale-io/torchie-release/releases/latest
+
 Grab the latest dmg and download to install. Email accounts@dreamscale.io for an account access token and include some information about the organization you would like to sign up.. We currently need some help in this area, You are invited to help us.. Contact Help@dreamscale.io
 
 This hyperspace terminal is design to allow users to create and publish messages into other universes through quantum entanglement. The terminal also allows  you  to subscribe to messages from  the other universes connected to this hyperspace, again using quantum entanglement. This terminal is also capable of working offline  to the StarTalk network. Which will be able to use the same great  features,   but only locally.
