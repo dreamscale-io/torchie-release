@@ -35,8 +35,8 @@ thank you. and  enjoy.
 good luck,
 have fun~!
 
-** please  contact zoe@dreamscale.io for   the symbol map, and or source code access. Open to all that are open minded.
+node-neural-network is an Open Source project. Anybody in the world is welcome to contribute to the development of the project.
 
-This is  an  Open Sourrce Project, self-funded entirely by @arty_starr and @kara_marie in part by DreamScale.io. If you'd like to help support our efforts, please contribute to our patrons page (coming soon).  All proceeds go directly to researching, developing,  managing, and building Earth's Hyperspace Transport Network Nodes to allow for quantum teleportation. Thank you<3  volunteer@dreamscale.io
+If you want to contribute feel free to send PR's, just make sure to run the default gulp task before submiting it. This way you'll run all the test specs and build the web distribution files.
 
-
+<3
