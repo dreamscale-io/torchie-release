@@ -8,7 +8,7 @@ Welcome! First we have congratulations in order.. Why you ask, for discovering a
 
 RELEASE => https://github.com/dreamscale-io/torchie-release/releases/latest
 
-SOURCES => https://github.com/dreamscale-io/torchie-shell
+SOURCES => https://github.com/dreamscale-io/torchie-shell (email arty@dreamscale.io for access)
 
 ### PREREQUISTE ###
 
